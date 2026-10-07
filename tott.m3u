@@ -1,0 +1,120 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2JzlorD.png", T Sport
+http://103.151.60.162:2122/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://stv.ee/wp-content/uploads/2024/02/QSport.png", Q Sport kyrgyzstan
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MCG3GU9WT7MUGK4W39QXTVGQ/15238/index.m3u8
+
+#EXTINF:-1 tvg-id="PPTV.HD.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/36.png",PPTV HD
+https://live-us1.thaimomo.com/live-as/chpptv-3/playlist.m3u8
+
+#EXTINF:0 tvg-id="SPORT.TV+.HD.pt" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Sport_TV%2B_%282023%29.svg/960px-Sport_TV%2B_%282023%29.svg.png",SPORT TV PLUS PT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MCG3GU9WT7MUGK4W39QXTVGQ/31590/index.m3u8
+#EXTINF:0 tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-3-pt.png", SPORT TV 1 PORTUGAL
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/2525/index.m3u8
+#EXTINF:0 tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/960px-Sport_TV2_%282023%29.svg.png",SPORT TV 2 PORTUGAL
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/2526/index.m3u8
+#EXTINF:0 tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-3-pt.png", SPORT TV 3 PORTUGAL
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/2527/index.m3u8
+#EXTINF:0 tvg-id="SPORT.TV4.HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sport_TV4_%282023%29.svg/960px-Sport_TV4_%282023%29.svg.png",SPORT TV 4 PORTUGAL
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/2528/index.m3u8
+#EXTINF:0 tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sport_TV5_%282023%29.svg/960px-Sport_TV5_%282023%29.svg.png", SPORT TV 5 PORTGAL
+https://github.com/exelal-44/test/raw/refs/heads/main/sporttv5.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png", ESPN 1 BR
+http://142.99.103.19:14044
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png", ESPN 2 BR
+http://46.151.196.223:14438
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png", ESPN 3 BR
+http://38.68.134.81:14046/
+#http://46.151.196.223:14444
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png", ESPN 4 BR
+http://46.151.196.223:14450
+#EXTINF:-1 tvg-id="ESPN.5.br" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png", ESPN 5 BR
+http://46.151.196.223:14456
+#EXTINF:-1 tvg-id="ESPN.6.br" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png", ESPN 6 BR
+http://38.68.134.81:14049
+
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png", ESPN 1 CO
+http://195.178.110.110/espn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png", ESPN 2 CO
+http://195.178.110.110/espn2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.co" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png", ESPN 3 CO
+http://195.178.110.110/espn3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.co" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png", ESPN 4 CO
+http://195.178.110.110/espn4/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png", ESPN 5 CO
+http://195.178.110.110/espn5/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png", ESPN 6 CO
+http://195.178.110.110/espn6/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png", ESPN 7 CO
+http://195.178.110.110/espn7/index.m3u8
+
+#EXTINF:0 tvg-id="ESPN.1.nl" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png",ESPN 1 HD NL
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/19201/index.m3u8
+#EXTINF:0 tvg-id="ESPN.2.nl" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png",ESPN 2 HD NL
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/19202/index.m3u8
+#EXTINF:0 tvg-id="ESPN.3.nl" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png",ESPN 3 HD NL
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/19203/index.m3u8
+#EXTINF:0 tvg-id="ESPN.4.nl" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png",ESPN 4 HD NL
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/19204/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn-de.png",DAZN 1 HD PT
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/31954/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn-de.png",DAZN 2 HD PT
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/31955/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.3.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn-de.png",DAZN 3 HD PT
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/31956/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.4.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn-de.png",DAZN 4 HD PT
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/31957/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn-de.png",DAZN 1 HD ES
+https://github.com/exelal-44/SPORTS/raw/refs/heads/main/esDAZN1.m3u8
+#EXTINF:-1 tvg-id="DAZN.2.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn-de.png",DAZN 2 HD ES
+https://github.com/exelal-44/SPORTS/raw/refs/heads/main/esDAZN2.m3u8
+#EXTINF:-1 tvg-id="DAZN.3.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn-de.png",DAZN 3 HD ES
+https://github.com/exelal-44/SPORTS/raw/refs/heads/main/esDAZN3.m3u8
+#EXTINF:-1 tvg-id="DAZN.4.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn-de.png",DAZN 4 HD ES
+https://github.com/exelal-44/SPORTS/raw/refs/heads/main/esDAZN4.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/W-Sport_logo.svg/250px-W-Sport_logo.svg.png", W-Sport
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/31959/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Sky_Sport_Calcio_-_Logo_2026.svg/960px-Sky_Sport_Calcio_-_Logo_2026.svg.png",Sky Sport Calcio
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/19113/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kdr04z1502554338.png", Sky Sport Arena
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MCG3GU9WT7MUGK4W39QXTVGQ/19128/index.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/250px-USA_Network_2020.svg.png",USA Network
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/1101/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/250px-Telemundo_logo_2018.svg.png", Telemundo
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/1080/index.m3u8
+#EXTINF:0 tvg-id="beIN.SPORTS.1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png",Bein Sports 1 FR
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/2499/index.m3u8
+#EXTINF:0 tvg-id="beIN.SPORTS.2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png",Bein Sports 2 FR
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/2500/index.m3u8
+#EXTINF:0 tvg-id="beIN.SPORTS.3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png",Bein Sports 3 FR
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/2501/index.m3u8
+#EXTINF:0 tvg-id="Canal+.Sport.fr" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Canal%2B_Sport.png/250px-Canal%2B_Sport.png",Canal+ Sport HD FR
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/2502/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv-russia.live/images/setanta_sports-1.png",Setanta Sports 1
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/6543/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv-russia.live/images/setanta_sports-2.png",Setanta Sports 2
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/7335/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://fast.ntvplus.tv/files/image/01/17/29/-channel!mqs.png",Match TV 1
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/124/index.m3u8
+#EXTINF:-1 tvg-logo="https://fast.ntvplus.tv/files/image/01/17/29/-channel!mqs.png",Match TV 1 HD
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/222/index.m3u8
+#EXTINF:-1 tvg-logo="https://fast.ntvplus.tv/files/image/01/17/30/-channel!olz.png",Match TV 2
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/530/index.m3u8
+#EXTINF:-1 tvg-logo="https://fast.ntvplus.tv/files/image/01/17/30/-channel!olz.png",Match TV 2 HD
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/211/index.m3u8
+#EXTINF:-1 tvg-logo="https://fast.ntvplus.tv/files/image/01/17/31/-channel!u02.png",Match TV 3
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/206/index.m3u8
+#EXTINF:0 tvg-logo="https://s2.vcdn.biz/static/f/4911995531/image.jpg",Megogo Sport HD
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/31612/index.m3u8
+
